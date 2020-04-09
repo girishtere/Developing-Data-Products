@@ -14,4 +14,4 @@ At the short time availability in the moment, I will design a presentation using
 
 - a cover page with title, author name, and date
 - graphic plotting
-- end page with suitable contents, e.g. summary words, acknowledgements, references.
+- end page with summary
