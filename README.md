@@ -1,4 +1,3 @@
-# Developing-Data-Products
 # Developing Data Products #
 
 Repository for JHU Coursera Developing Data Products w3 Assignment
